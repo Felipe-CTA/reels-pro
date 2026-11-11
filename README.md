@@ -34,7 +34,7 @@ git clone https://github.com/Felipe-CTA/reels-pro.git /tmp/reels-pro && mkdir -p
 Windows (PowerShell):
 
 ```powershell
-git clone https://github.com/Felipe-CTA/reels-pro.git $env:TEMP\editor-reels; New-Item -ItemType Directory -Force "$HOME\.claude\skills" | Out-Null; Copy-Item -Recurse "$env:TEMP\editor-reels\skills\eels-pro" "$HOME\.claude\skills\"
+git clone https://github.com/Felipe-CTA/reels-pro.git $env:TEMPeels-pro; New-Item -ItemType Directory -Force "$HOME\.claude\skills" | Out-Null; Copy-Item -Recurse "$env:TEMPeels-pro\skills\editor-reels" "$HOME\.claude\skills\"
 ```
 
 Después abre una sesión nueva de Claude Code.
