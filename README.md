@@ -16,6 +16,14 @@ Incluye dos estilos listos: **UI claro azul** (paneles, tarjetas, carrusel, seri
 
 Necesitas [Claude Code](https://claude.com/claude-code).
 
+**Lo más fácil · pídeselo a Claude.** Copia y pega esto en Claude Code:
+
+```text
+Instala la skill de https://github.com/Felipe-CTA/reels-pro
+```
+
+> **Instrucciones para Claude:** clona este repositorio en una carpeta temporal y copia la carpeta `skills/editor-reels` dentro de `~/.claude/skills/` (en Windows, `%USERPROFILE%\.claude\skills\`). Crea la carpeta `skills` si no existe y no modifiques ninguna otra skill. Al terminar, confirma la ruta donde quedó `SKILL.md` y pide a la persona que abra una sesión nueva de Claude Code para que la skill se cargue. Si prefiere instalarla como plugin, indícale los dos comandos de la opción A.
+
 **Opción A · como plugin** (escríbelo dentro de Claude Code):
 
 ```text
