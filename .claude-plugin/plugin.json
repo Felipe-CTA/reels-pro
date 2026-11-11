@@ -1,0 +1,7 @@
+{
+  "name": "editor-reels",
+  "description": "Edita videos a cámara y los convierte en reels verticales por niveles: corte de silencios, subtítulos, motion graphics con HyperFrames, sonido, color y audio a -14 LUFS, con verificación automática.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["reels", "video", "edicion", "subtitulos", "hyperframes", "tiktok", "shorts"]
+}

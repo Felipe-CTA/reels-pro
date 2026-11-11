@@ -1,0 +1,11 @@
+{
+  "name": "editor-reels",
+  "owner": { "name": "editor-reels" },
+  "plugins": [
+    {
+      "name": "editor-reels",
+      "source": "./",
+      "description": "Edición de reels verticales por niveles con verificación automática."
+    }
+  ]
+}

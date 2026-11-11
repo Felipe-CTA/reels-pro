@@ -1,0 +1,31 @@
+# Nunca subir material de edición ni datos personales
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.raw
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.npy
+*.json
+!.claude-plugin/*.json
+*.tramos.json
+*.filtros.txt
+.hyperframes/
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+# credenciales
+.env
+.env.*
+*.pem
+*.key
+credentials*
